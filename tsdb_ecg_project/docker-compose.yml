@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   timescaledb:
-    image: docker.io/timescale/timescaledb-postgis:latest-pg14
+    image: docker.io/timescale/timescaledb:latest-pg14
     container_name: timescaledb_ecg
     environment:
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
