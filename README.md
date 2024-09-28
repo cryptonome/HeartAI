@@ -1,5 +1,5 @@
 # HeartAI
-Using machine learning model  to analyze electrocardiograms  
+Using machine learning model to provide free care in the health space
 
 This code repository will train you in the following:
 - Create a vast data repository of electrocardiograms with annotations over 500K patient and more than 2 million electrocardiograms
